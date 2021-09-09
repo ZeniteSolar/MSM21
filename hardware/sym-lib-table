@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name RJ45)(type Legacy)(uri ${KIPRJMOD}/basicsensormodule/RJ45.lib)(options "")(descr ""))
+  (lib (name MAB20-rescue)(type Legacy)(uri ${KIPRJMOD}/MAB20-rescue.lib)(options "")(descr ""))
+)
